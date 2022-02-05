@@ -1,0 +1,15 @@
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\bin\Debug\net6.0\dio poo lab2.exe
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\bin\Debug\net6.0\dio poo lab2.deps.json
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\bin\Debug\net6.0\dio poo lab2.runtimeconfig.json
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\bin\Debug\net6.0\dio poo lab2.dll
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\bin\Debug\net6.0\ref\dio poo lab2.dll
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\bin\Debug\net6.0\dio poo lab2.pdb
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\obj\Debug\net6.0\dio poo lab2.csproj.AssemblyReference.cache
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\obj\Debug\net6.0\dio poo lab2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\obj\Debug\net6.0\dio poo lab2.AssemblyInfoInputs.cache
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\obj\Debug\net6.0\dio poo lab2.AssemblyInfo.cs
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\obj\Debug\net6.0\dio poo lab2.csproj.CoreCompileInputs.cache
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\obj\Debug\net6.0\dio poo lab2.dll
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\obj\Debug\net6.0\ref\dio poo lab2.dll
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\obj\Debug\net6.0\dio poo lab2.pdb
+C:\Users\madso\OneDrive\Área de Trabalho\dio poo lab2\dio poo lab2\obj\Debug\net6.0\dio poo lab2.genruntimeconfig.cache
